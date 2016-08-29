@@ -2,7 +2,7 @@
 
 // PHP code
 
-$forename = $surname = $username = $password = $age = $email = "";
+$forename = $surname = $username = $password = $age = $email = "";what
 
 
 if (isset($_POST['forename']))
